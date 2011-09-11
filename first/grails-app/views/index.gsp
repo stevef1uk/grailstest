@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Welcome to Grails</title>
+        <title>Welcome to Grails Steve on Git Hub</title>
         <meta name="layout" content="main" />
         <style type="text/css" media="screen">
 
